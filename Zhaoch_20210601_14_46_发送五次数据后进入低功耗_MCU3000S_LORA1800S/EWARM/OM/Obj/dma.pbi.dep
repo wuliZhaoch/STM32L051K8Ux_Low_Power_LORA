@@ -1,0 +1,44 @@
+dma.pbi: D:\03_Workspace\01_Software_WorkSpace\OM\Core\Src\dma.c \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Core/Inc\dma.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Core/Inc/main.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Core/Inc\stm32l0xx_hal_conf.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_rcc.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_def.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/CMSIS/Device/ST/STM32L0xx/Include\stm32l0xx.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l051xx.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/CMSIS/Include\core_cm0plus.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/CMSIS/Include/mpu_armv7.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stddef.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rcc_ex.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_exti.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_gpio.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_gpio_ex.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_dma.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_cortex.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_flash.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ex.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_flash_ramfunc.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_i2c.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_i2c_ex.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_pwr.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_pwr_ex.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_rtc.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_rtc_ex.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_tim.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_tim_ex.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc\stm32l0xx_hal_uart.h \
+  D:\03_Workspace\01_Software_WorkSpace\OM\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h
